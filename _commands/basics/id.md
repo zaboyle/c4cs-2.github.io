@@ -1,4 +1,5 @@
-#id
+id
+===
 
 `id` is a command that shows the real and effective user and group IDs.
 
